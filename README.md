@@ -1,0 +1,2 @@
+# TP-D-veloppement-d-un-serveur-de-calcul-distribu-simple
+Développer un serveur de calcul distribué qui permet à plusieurs clients de se connecter pour effectuer des tâches de calcul. Le serveur recevra des tâches, les distribuera à des clients disponibles, et collectera les résultats. Ce projet vise à démontrer les concepts de base de la communication réseau, du multitâche et du traitement distribué.
